@@ -1,4 +1,4 @@
 # DemoUpstream1
 
 First line
-Second line
+Remove second line
